@@ -1,0 +1,21 @@
+.menu {
+    font-size: 1.2em;
+    
+}
+  
+ul {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+  
+a {
+    text-decoration: none;
+}
+  
+.activeLink {
+    font-weight: bold;
+    
+    color: rgb(203, 74, 27)
+}
